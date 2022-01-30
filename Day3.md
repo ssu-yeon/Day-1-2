@@ -71,15 +71,15 @@ git pull origin master - 한글 빼고 다 삭제 후 저장 즉 1, 로컬에서
 
 ## **Branch 명령어**
 
-\1. git branch -> 확인용 
+ 1. git branch -> 확인용 
 
    git branch {{ 이름 }} => 생성용 
 
-\2. git switch 브랜치명
+ 2. git switch 브랜치명
 
-\3. git merge water  -> 위치는 마스터에서
+ 3. git merge water  -> 위치는 마스터에서
 
-\4. git branch -d water -> 쓸모없어진것 삭제
+ 4. git branch -d water -> 쓸모없어진것 삭제
 
 
 
